@@ -3,3 +3,5 @@ ABI64 A12+ is an tool that can let you bypass your A12 device locked to owner. Y
 Enjoy :)
 
 Visit my website: https://abi64-bypass-a12.oneapp.dev/
+
+NOTE: The application is under development, please wait patiently until our software is done. Thanks!
