@@ -12,6 +12,4 @@ NOTE: The application is under development, please wait patiently until our soft
 3. DaclePro-maker
 
 ## *SOON* :
-26.2 Bypass
-26.3 Bypass
-26.3.1 Bypass
+26.2 - 26.4 Bypass
